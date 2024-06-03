@@ -20,8 +20,8 @@ Os bancos de dados e outras tecnologias mencionadas são sugestões. Sinta-se à
 Os 3 testes técnicos se encontram nos seguintes arquivos:
 
 - [Teste 1](testes/teste-1.md)
-- [Teste 2](testes/teste-1.md)
-- [Teste 3](testes/teste-1.md)
+- [Teste 2](testes/teste-2.md)
+- [Teste 3](testes/teste-3.md)
 
 ## Critérios de avaliação
 
